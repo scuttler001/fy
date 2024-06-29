@@ -49,6 +49,8 @@ body{
   border: 1px solid #03fc9d;
   box-shadow: 0 0 8px #03fc9d,
               0 0 16px #03fc9d;
+  text-shadow: 0 0 10px #fff,
+               0 0 18px #fff;
 }
 
 
